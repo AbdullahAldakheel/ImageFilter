@@ -14,3 +14,5 @@ npm run dev
 ```
 GET: /filteredimage?image_url={{image_url}}
 ```
+
+Deployed URL: http://image-filter-dev22.us-east-1.elasticbeanstalk.com/
